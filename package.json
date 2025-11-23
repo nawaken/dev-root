@@ -1,0 +1,11 @@
+{
+    "name": "dev-root",
+    "private": true,
+    "scripts": {
+      "lint": "pnpm -r lint",
+      "format": "pnpm -r format",
+      "test": "pnpm -r test",
+      "update": "pnpm -r update"
+    }
+  }
+  
