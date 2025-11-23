@@ -1,0 +1,6 @@
+packages:
+  - "scripts"
+  - "automations"
+  - "tools"
+  - "notebooks"
+  - "apps/*"
