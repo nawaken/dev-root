@@ -4,3 +4,9 @@
 [submodule "notebook"]
 	path = notebook
 	url = https://github.com/nawaken/notebook
+[submodule "automations"]
+	path = automations
+	url = https://github.com/nawaken/automations
+[submodule "tools"]
+	path = tools
+	url = https://github.com/nawaken/tools
