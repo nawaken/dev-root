@@ -2,5 +2,5 @@ packages:
   - "scripts"
   - "automations"
   - "tools"
-  - "notebooks"
+  - "notebook"
   - "apps/*"
