@@ -1,11 +1,14 @@
 {
-    "name": "dev-root",
-    "private": true,
-    "scripts": {
-      "lint": "pnpm -r lint",
-      "format": "pnpm -r format",
-      "test": "pnpm -r test",
-      "update": "pnpm -r update"
-    }
+  "name": "dev-root",
+  "private": true,
+  "scripts": {
+    "lint": "pnpm -r lint",
+    "format": "pnpm -r format",
+    "test": "pnpm -r test",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "biome": "^1.0.0"
   }
-  
+}
